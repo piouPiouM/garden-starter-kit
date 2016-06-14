@@ -58,6 +58,9 @@ jspm_packages
 # Ignorer le cache nproxy
 nproxy-cache
 
+# Ignorer les identifiants du serveur sftp
+.ftppass
+
 # PROJET
 # -----------------------------------------------------------------------------
 # Ignorer les bibliothèques JS tiers placé dans les sources
